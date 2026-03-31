@@ -1,0 +1,10 @@
+﻿* main
+  remotes/origin/20260129
+  remotes/origin/20260205
+  remotes/origin/20260305
+  remotes/origin/20260312
+  remotes/origin/20260314
+  remotes/origin/20260319
+  remotes/origin/20260326
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main
